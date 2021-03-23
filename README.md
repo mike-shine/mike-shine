@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub profile! 👋👋👋
+
+I am a technical writer based in Seattle, Washington.   💻 ✏️  
+
+Pronouns: He/him/his  😄  
+
+I'm currently working on creating tutorials, how-to guides, and reference materials for my technical writing portfolio.  🔭  
+
+I’m looking to collaborate with software engineers who have created tech tools and would like some help writing documentation. If you're interested, send me a message on LinkedIn!  👯 
+
+How to reach me:   📫
+
+[LinkedIn](https://www.linkedin.com/in/michael-shine-he-him-his-400b211a9/)  
+Blog/portfolio website: Coming Soon! 
+
+
 
 <!--
 **mike-shine/mike-shine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
