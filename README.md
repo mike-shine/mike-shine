@@ -11,8 +11,7 @@ I’m looking to collaborate with software engineers who have created tech tools
 How to reach me:   📫
 
 [LinkedIn](https://www.linkedin.com/in/michael-shine-206)  
-Blog/portfolio website: Coming Soon! 
-
+[Blog/portfolio website](https://shinetechnicallywrites.netlify.app/)
 
 
 <!--
