@@ -4,7 +4,7 @@ I am a technical writer based in Seattle, Washington.   💻 ✏️
 
 Pronouns: He/him/his  😄  
 
-I'm currently working on creating tutorials, how-to guides, and reference materials for my technical writing portfolio.  🔭  
+I'm currently working on creating API documentation and user guides for my technical writing portfolio.  🔭  
 
 I’m looking to collaborate with software engineers who have created tech tools and would like some help writing documentation. If you're interested, send me a message on LinkedIn!  👯 
 
